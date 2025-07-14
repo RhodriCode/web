@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Web Element Projects",
+			"path": "../.."
+		},
+		{
+			"name": "4.0 File Paths",
+			"path": "../../../../../../Downloads/4.0 File Paths"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web Element Projects"
+	}
+}
